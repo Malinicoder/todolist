@@ -1,2 +1,2 @@
 # todolist
-the project is use the django 
+the project  uses the django 
